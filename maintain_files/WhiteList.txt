@@ -9547,6 +9547,7 @@
 .*\bbw22\.com
 .*\bbw40\.net
 .*\bbw8848\.com
+.*\bbwae\.org
 .*\bbwchinese\.com
 .*\bbwdc007\.com
 .*\bbwghost\.com
@@ -22771,6 +22772,7 @@
 .*\bjjcoffetels\.com
 .*\bjjdzc\.com
 .*\bjjegame-download\.com
+.*\bjjfinder\.com
 .*\bjjhgame\.com
 .*\bjjhgamedns\.com
 .*\bjjhh\.com

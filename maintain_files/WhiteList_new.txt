@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2018-07-29
+## Last update: 2018-08-05
 
 
 Server=/0-6.com/
@@ -9548,6 +9548,7 @@ Server=/bw.com/
 Server=/bw22.com/
 Server=/bw40.net/
 Server=/bw8848.com/
+Server=/bwae.org/
 Server=/bwchinese.com/
 Server=/bwdc007.com/
 Server=/bwghost.com/
@@ -22772,6 +22773,7 @@ Server=/jjcoffetel.cc/
 Server=/jjcoffetels.com/
 Server=/jjdzc.com/
 Server=/jjegame-download.com/
+Server=/jjfinder.com/
 Server=/jjhgame.com/
 Server=/jjhgamedns.com/
 Server=/jjhh.com/
