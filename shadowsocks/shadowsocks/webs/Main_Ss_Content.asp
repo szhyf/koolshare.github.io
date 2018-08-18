@@ -1183,9 +1183,9 @@ function add_ss_node_conf(flag) { //点击添加按钮动作
 				ns["ssconf_basic_v2ray_network_host_" + node_global_max] = vmess_node.host;
 				ns["ssconf_basic_v2ray_network_path_" + node_global_max] = vmess_node.path;
 				if(vmess_node.tls == "tls"){
-					dbus["ss_basic_v2ray_network_security_" + node_global_max] = "tls";
+					ns["ss_basic_v2ray_network_security_" + node_global_max] = "tls";
 				}else{
-					dbus["ss_basic_v2ray_network_security_" + node_global_max] = "none";
+					ns["ss_basic_v2ray_network_security_" + node_global_max] = "none";
 				}	
 				ns["ssconf_basic_v2ray_mux_enable_" + node_global_max] = 1;
 				ns["ssconf_basic_v2ray_mux_concurrency_" + node_global_max] = 8;
