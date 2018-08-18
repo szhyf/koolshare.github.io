@@ -4,7 +4,7 @@ Koolshare Asuswrt-Merlin shadowsocks Changelog
    - fix	修复某些机器开机启动后iptables规则被多次添加，影响如koolproxy等其它插件的启动；
    - fix	修复【内部网络(lan)】-【DHCP服务器】-【DNS 及 WINS 服务器设置】内DNS Server 2无法清空的问题；
    - fix	修复通过vmess://链接添加v2ray节点时无法添加tls信息的bug；
-   - update	添加域名黑白名单格式检查，错误格式的域名不会添加进对应名单并给予相应提示；
+   - add	添加域名黑白名单格式检查，错误格式的域名不会添加进对应名单并给予相应提示；
    - update	同步最新规则：gfwlist.conf, chnroute.txt, cdn.txt；
    - update	更新v2ray二进制版本为v3.35；
    - update	更新kcptun二进制版本为20180810
